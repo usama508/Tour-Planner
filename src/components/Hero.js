@@ -8,7 +8,7 @@ function Hero() {
         <div className='max-w-[1140px] m-auto'>
             <div className='absolute top-[40%] w-full md:-[50%] max-w-[600px] h-full flex flex-col
                     text-white p-4'>
-                <h1 className='font-bold text-4xl text-red-500'>Find Tour Special Trip</h1>
+                <h1 className='font-bold text-4xl text-red-500'>Find Your Special Trip</h1>
                 <h2 className='text-4xl py-4 italic text-red-500'>With Weekaway</h2>
                 <p className='text-red-400'>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus sunt iure ab eaque doloribus nesciunt illo incidunt expedita aspernatur, accusamus fugiat nisi sapiente rerum sed commodi adipisci corrupti, maxime cum?
