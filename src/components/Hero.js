@@ -11,7 +11,7 @@ function Hero() {
                 <h1 className='font-bold text-4xl text-red-500'>Find Your Special Trip</h1>
                 <h2 className='text-4xl py-4 italic text-red-500'>With Weekaway</h2>
                 <p className='text-red-400'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus sunt iure ab eaque doloribus nesciunt illo incidunt expedita aspernatur, accusamus fugiat nisi sapiente rerum sed commodi adipisci corrupti, maxime cum?
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus sunt iure ab eaque doloribus nesciunt illo incidunt expedita aspernatur, accusamus fugiat nisi sapiente rerum sed commodi adipisci corrupti, maxime cum?Hello!
                 </p>
             </div>
         </div>
