@@ -1,11 +1,10 @@
 import { Fragment } from 'react'
-import { Disclosure, Menu, Transition } from '@headlessui/react'
-import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
-import { PlusIcon } from '@heroicons/react/20/solid'
-import {RiMessage2Line} from 'react-icons/ri'
+import { Disclosure, } from '@headlessui/react'
+import { Bars3Icon,  XMarkIcon } from '@heroicons/react/24/outline'
+
 
 const navigation = [
-  { name: '💬 WEEKAWAY' },
+  
   { name: '🕛 9AM-5AM' },
   
   { name: '📞 1-858-817-1234' },
@@ -39,16 +38,11 @@ export default function Example() {
                 
                 <div className="hidden md:ml-6 md:flex md:items-center md:space-x-4">
                 <div className="flex flex-shrink-0 items-center">
-                  <img
-                    className="block h-8 w-auto lg:hidden"
-                    src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
-                    alt="Your Company"
-                  />
-                  <img
-                    className="hidden h-8 w-auto lg:block"
-                    src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
-                    alt="Your Company"
-                  />
+                 
+                <div className='flex items-center m-auto justify-center'>
+            <h1 className='text-xl font-bold text-gray-700'>💬 WEEKAWAY</h1>
+
+        </div>
                 </div>
                   {navigation.map((item) => (
                     <a
