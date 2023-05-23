@@ -39,7 +39,7 @@ export default function Example() {
                 <div className="hidden md:ml-6 md:flex md:items-center md:space-x-4">
                 <div className="flex flex-shrink-0 items-center">
                  
-                <div className='flex items-center m-auto justify-center'>
+                <div className='flex items-center m-auto justify-center '>
             <h1 className='text-xl font-bold text-gray-700'>💬 WEEKAWAY</h1>
 
         </div>
